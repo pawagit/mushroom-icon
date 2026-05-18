@@ -1,0 +1,13 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "your-github-username"
+  ],
+  "tags": [
+    "tag-one",
+    "tag-two"
+  ],
+  "categories": [
+    "shapes"
+  ]
+}
